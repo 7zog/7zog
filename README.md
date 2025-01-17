@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=actix,adonis,alpinejs,angular,apollo,astro,babel,bevy,bootstrap,cypress,deno,discordjs,django,dotnet,electron,elysia,ember,emotion,express,fastapi,flutter,gatsby,graphql,gtk,haxeflixel,hibernate,htmx,jquery,ktor,laravel,lit,materialui,nestjs,nextjs,nuxtjs,p5js,pinia,prisma,processing,qt,react,reactivex,redux,remix,rocket,ros,sequelize,solidjs,spring,styledcomponents,svelte,symfony,tailwind,tauri,threejs,vue,vuetify,yew
 )](https://skillicons.dev)
 
-## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif)**Databases :**
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Databases :**
 
 [![My Skills](https://skillicons.dev/icons?i=cassandra,dynamodb,elasticsearch,mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
 
@@ -33,8 +33,7 @@
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Cloud Platforms And Services :**
 [![My Skills](https://skillicons.dev/icons?i=appwrite,aws,azure,cloudflare,firebase,gcp,heroku,netlify,openshift,openstack,planetscale,replit,supabase,vercel,workers)](https://skillicons.dev)
 
-## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif)
-**Software And Applications :**
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Software And Applications :**
 [![My Skills](https://skillicons.dev/icons?i=ableton,ae,autocad,blender,discord,gamemakerstudio,godot,gmail,instagram,linkedin,mastodon,misskey,nodejs,notion,obsidian,octave,robloxstudio,sketchup,twitter,unity,unreal,webflow,wordpress)](https://skillicons.dev)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Protocols And Technologies :**
