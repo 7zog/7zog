@@ -13,9 +13,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,crystal,clojure,coffeescript,css,dart,elixir,forth,fortran,go,gherkin,haskell,haxe,html,java,js,kotlin,less,lua,md,matlab,mint,nim,ocaml,perl,ps,php,pug,py,r,ruby,rust,sass,scala,solidity,swift,ts,v,vala,wasm,zig)](https://skillicons.dev)
 
-## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Interactive languages**
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Development Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=bash,vim,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,ansible,atom,bitbucket,bun,clion,cmake,codepen,docker,eclipse,emacs,figma,git,github,githubactions,gitlab,gradle,gulp,idea,jenkins,jest,maven,neovim,nginx,nix,npm,,pnpm,postman,pycharm,rider,rollupjs,selenium,sentry,sublime,terraform,vim,visualstudio,vite,vitest,vscode,vscodium,webstorm,webpack,yarn)](https://skillicons.dev)
 
 
 
