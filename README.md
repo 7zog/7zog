@@ -5,7 +5,7 @@
 
   
 
-![211228-Shugerman-Hackers-NFTs-tease_cfuug7](https://github.com/7zog/7zog/assets/98873011/681a99cb-df8b-4826-aeb3-4c8fdb6f1d23)
+![ Best Developer ](https://cdn.dribbble.com/users/414694/screenshots/5885723/media/387277b7e488379b4eb70f378b508d21.gif)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7zog&theme=highcontrast)](https://git.io/streak-stats)
 
