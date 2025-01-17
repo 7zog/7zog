@@ -1,7 +1,7 @@
 
 
 
-  <h1> ⛩️ Hello I'm 7zog Developer, Coding and Dev.<br></br>
+  <h1> 📝 Hello I'm 7zog Developer, Coding and Dev.<br></br>
 
   
 
