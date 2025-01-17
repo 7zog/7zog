@@ -1,7 +1,7 @@
 
 
 
-  <h1> Hello I'm 7zog Developer.<br></br>
+  <h1> ⛩️ Hello I'm Guldo Developer, Sys Admin, Devops and Ethical.<br></br>
 
   
 
