@@ -17,7 +17,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldo77&theme=highcontrast)](https://git.io/streak-stats)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldo77&show_icons=true&theme=chartreuse-dark) 
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=chartreuse-dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldo77&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
