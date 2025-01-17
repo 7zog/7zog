@@ -7,14 +7,6 @@
 
 ![211228-Shugerman-Hackers-NFTs-tease_cfuug7](https://github.com/7zog/7zog/assets/98873011/681a99cb-df8b-4826-aeb3-4c8fdb6f1d23)
 
-
-
-
-
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7zog&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=chartreuse-dark) 
