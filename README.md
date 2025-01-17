@@ -11,9 +11,7 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
 
-[
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,crystal,clojure,coffeescript,css,dart,elixir,forth,fortran,go,gherkin,haskell,haxe,html,java,js,kotlin,less,lua,md,matlab,mint,nim,ocaml,perl,ps,php,pug,py,r,ruby,rust,sass,scala,solidity,swift,ts,v,vala,wasm
-,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,crystal,clojure,coffeescript,css,dart,elixir,forth,fortran,go,gherkin,haskell,haxe,html,java,js,kotlin,less,lua,md,matlab,mint,nim,ocaml,perl,ps,php,pug,py,r,ruby,rust,sass,scala,solidity,swift,ts,v,vala,wasm,zig)](https://skillicons.dev)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Interactive languages**
 
