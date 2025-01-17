@@ -15,20 +15,10 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldo77&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7zog&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=chartreuse-dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldo77&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldo77&repo=recount-addonscustom-3.3.5&show_owner=true&theme=midnight-purple)](https://github.com/Guldo77/Recount-AddonsCustom-3.3.5)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldo77&repo=PriceItem-Addon-BC-1.4.0&show_owner=true&theme=midnight-purple)](https://github.com/Guldo77/PriceItem-Addon-BC-1.4.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldo77&repo=NewUI-Vanilla-1.12&show_owner=true&theme=midnight-purple)](https://github.com/Guldo77/NewUI-Vanilla-1.12)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldo77&repo=Cloud-E-Azure&show_owner=true&theme=midnight-purple)](https://github.com/Guldo77/Cloud-E-Azure)
-
-
- 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
 
