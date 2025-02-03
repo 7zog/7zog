@@ -53,8 +53,9 @@
 [![My Skills](https://skillicons.dev/icons?i=azul,pr,windicss)](https://skillicons.dev)
 
 
+</p>
 <p align="center">
-    <a href="https://discord.com/users/212966578680102913">
-        <img align="center" src="https://lanyard-profile-readme.vercel.app/api/212966578680102913">
+    <a href="https://discord.com/users/1278440146097672236">
+        <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1278440146097672236">
     </a>
 </p>
