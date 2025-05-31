@@ -8,7 +8,8 @@
 
 ---
 
-<h2 align="center"> ## 📝 Hello I'm 7zog Developer, Coding and Dev.
+<h2 align="center">  📝 Hello I'm 7zog Developer, Coding and Dev.
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7zog&theme=highcontrast)](https://git.io/streak-stats)
 
