@@ -6,7 +6,7 @@
 
 <h2 align="center">Skills Charts</h2>
 
----
+
 
 <h2 align="center">  📝 Hello I'm 7zog Developer, Coding and Dev.
 
