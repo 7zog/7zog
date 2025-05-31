@@ -6,7 +6,7 @@
 
 <h2 align="center">Skills Charts</h2>
 
-
+---
 
 <h2 align="center">  📝 Hello I'm 7zog Developer, Coding and Dev.
 
@@ -15,9 +15,7 @@
 
 ![Les Stats GitHub de 7zog](https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)</h2>
 
 ---
 
