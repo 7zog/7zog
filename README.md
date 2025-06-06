@@ -9,12 +9,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=7zog&theme=windows-dark&border_radius=25" alt="GitHub Streak"/>
   </a>
-  <br />
-  <img src="https://streak-stats.demolab.com??user=7zog&theme=transparent&show_icons=true)" alt="GitHub Stats" />
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=cobalt" alt="Top Langs" />
-  </a>
 </div>
 
 ---
