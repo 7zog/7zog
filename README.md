@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=onedark" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=cobalt" alt="Top Langs" />
   </a>
 </div>
 
