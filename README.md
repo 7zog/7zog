@@ -7,10 +7,10 @@
   <h3>📝 Hello I'm 7zog - Developer, Coding and Dev</h3>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=7zog&theme=highcontrast" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=7zog&theme=cobalt" alt="GitHub Streak"/>
   </a>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=7zog&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zog&layout=compact&theme=cobalt" alt="Top Langs" />
