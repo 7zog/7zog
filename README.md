@@ -1,10 +1,10 @@
 <div align="center">
-  ### **<h3> Skills Charts </h3>**
-  <img height="150" src="https://camo.githubusercontent.com/eb96b4f4779c9d29295b99ad190641d12af80e15e8fa7b548b1c6da5801d1ee7/68747470733a2f2f7465636869736f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f536f6674776172652d646576656c6f706d656e742d322e706e67" />
+  <h3>Skills Charts</h3>
+  <img height="495" src="https://camo.githubusercontent.com/eb96b4f4779c9d29295b99ad190641d12af80e15e8fa7b548b1c6da5801d1ee7/68747470733a2f2f7465636869736f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f536f6674776172652d646576656c6f706d656e742d322e706e67" />
 
 ---
 
-  <h3>📝 Hello I'm 7zog - Developer, Coding and Dev</h3>
+  <h3> </> Hello I'm 7zog - Developer, Coding and Dev</h3>
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=7zog&theme=windows-dark&border_radius=25" alt="GitHub Streak"/>
