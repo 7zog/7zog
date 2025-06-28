@@ -88,7 +88,7 @@
 ---
 
 - ### **📫 Contact** :
-- _Discord_ : `7zdb`
+- _Discord_ : `ogedf`
 - _Discord_ : `7zog`
 - _Discord_ : `3yz_444`
 - _Telegram_ : `sfr7z`
